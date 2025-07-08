@@ -90,7 +90,7 @@ A estrutura de arquivos do projeto é a seguinte:
 📁 src/
  ┣ 📄 ReprodutorMusical.java
  ┣ 📄 AparelhoTelefonico.java
- ┣ 📄 NavegadorInternet.java
+ ┣ 📄 NavegadorDeInternet.java
  ┣ 📄 iPhone.java
  ┗ 📄 Main.java
 ```
