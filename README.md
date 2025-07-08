@@ -1,6 +1,6 @@
 # 📱 POO - Desafio: Modelagem e Diagramação de um Componente iPhone
 
-Este repositório contém a modelagem orientada a objetos do componente **iPhone**, com base no vídeo oficial de lançamento do iPhone em 2007. O desafio consiste em representar suas funcionalidades principais em um **diagrama UML** e, opcionalmente, implementar as classes e interfaces em **Java**.
+Este repositório contém a modelagem orientada a objetos do componente **iPhone**, com base no vídeo oficial de lançamento do iPhone em 2007. O desafio proposto pela DIO consiste em representar suas funcionalidades principais em um **diagrama UML** e, opcionalmente, implementar as classes e interfaces em **Java**.
 
 ## 🎯 Objetivo
 
@@ -36,7 +36,7 @@ Inspirado no vídeo de lançamento do iPhone de 2007:
 
 ## 📊 Diagrama UML
 
-O diagrama UML foi elaborado utilizando a ferramenta Mermaid para Markdown.
+O diagrama UML foi elaborado utilizando a ferramenta Mermaid para exibir em arquivos, Markdown. Também disponibilizei uma versão em .png **(UML iPhone.png)** dentro dos arquivos do projeto para facilitar a visualização e caso de bugs ou dúvidas.
 
 ```mermaid
 classDiagram
